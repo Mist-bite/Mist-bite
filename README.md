@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mist-bite
+- 👀 I’m interested in psychology, neurosience 
+- 🌱 I’m currently learning JS, HTML and CSS
+- 💞️ I’m looking to collaborate on social skills 🙈
+- 📫 How to reach me? Email me 📧
